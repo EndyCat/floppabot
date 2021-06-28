@@ -322,7 +322,7 @@ while True:
                             sender(uid, random.choice(c_replic))
                 except:
                     try:
-                        sender(484810309, traceback.format_exc())
+                        sender(592735457, traceback.format_exc())
                     except:
                         print(traceback.format_exc())
 
